@@ -1,0 +1,11 @@
+contact:
+    emailid: rp8jan@gmail.com
+    phon: 9464711558
+    zip: 822114
+    
+---
+spring:
+     profile: Dev
+     
+contact:
+    emailid: Dev-rp8jan@gmail.com        
